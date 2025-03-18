@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@layer base {
+  @font-face {
+    font-family: morabba;
+    src: url('/fonts/morabba.woff') format("truetype");
+  }
+}
