@@ -12,7 +12,7 @@ export const menuItems = [
       en: "Delicious Koobideh kebab made from fresh meat."
     },
     price: "300 AFN",
-    image: "/public/kabab-pic.jpg",
+    image: "public/kabab-pic.jpg",
     weight: "300gr"
   },
   {
@@ -28,7 +28,7 @@ export const menuItems = [
       en: "Ashak with a unique taste and traditional Afghan recipe."
     },
     price: "750 AFN",
-    image: "/public/ashak-pic.jpg",
+    image: "public/ashak-pic.jpg",
     weight: "300gr"
   },
   {
@@ -44,7 +44,7 @@ export const menuItems = [
       en: "Ashak Pulao with a unique taste and traditional Afghan recipe."
     },
     price: "750 AFN",
-    image: "/public/ashak-pic.jpg",
+    image: "public/ashak-pic.jpg",
     weight: "300gr"
   },
   {
@@ -60,7 +60,7 @@ export const menuItems = [
       en: "Ashak Pulao with a unique taste and traditional Afghan recipe."
     },
     price: "750 AFN",
-    image: "/public/ashak-pic.jpg",
+    image: "public/ashak-pic.jpg",
     weight: "300gr"
   },
   {
@@ -76,7 +76,7 @@ export const menuItems = [
       en: "Ashak Pulao with a unique taste and traditional Afghan recipe."
     },
     price: "750 AFN",
-    image: "/public/ashak-pic.jpg",
+    image: "public/ashak-pic.jpg",
     weight: "300gr"
   },
   {
@@ -92,7 +92,7 @@ export const menuItems = [
       en: "Ashak Pulao with a unique taste and traditional Afghan recipe."
     },
     price: "750 AFN",
-    image: "/public/ashak-pic.jpg",
+    image: "public/ashak-pic.jpg",
     weight: "300gr"
   },
 ];
